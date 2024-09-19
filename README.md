@@ -14,8 +14,8 @@
 </div>
 
         <h2 style="color:blue;text-align: center;background-color: aqua;"> Name: Choi, Sangoh</h2>
-        <h2 class="mystyle";> Age: 34</h2>
-        <h2 id="mymenu_style";> Major: Computer Science</h2>
+        <h2> Age: 34</h2>
+        <h2>Major: Computer Science</h2>
         <h2> Country of origin: South Korea</h2>
         
     <hr/>
